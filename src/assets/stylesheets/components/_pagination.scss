@@ -30,11 +30,11 @@
 }
 
 .pagination a:not(.is-disabled):not(.is-current):hover {
-  box-shadow: inset 0 0 0 3px $color-blue-magenta;
+  box-shadow: inset 0 0 0 3px $color-dark-gray;
 }
 
 .pagination a.is-current {
-  border-bottom: 3px solid $color-blue-magenta;
+  border-bottom: 3px solid $color-dark-gray;
 }
 
 .pagination a.is-disabled {

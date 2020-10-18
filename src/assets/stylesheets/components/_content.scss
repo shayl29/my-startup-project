@@ -62,7 +62,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  border: 1px solid $color-blue-magenta;
+  border: 1px solid $color-dark-gray;
   background-color: #fff;
   z-index: -1;
 }
@@ -116,5 +116,5 @@
 .content hr {
   border: none;
   height: 1px;
-  background-color: $color-blue-magenta;
+  background-color: $color-dark-gray;
 }
